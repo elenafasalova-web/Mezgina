@@ -9,7 +9,7 @@
 
     3. Запустите скрипт:
 
-    python weather_diary.py
+    python main.py
 
     4. Используйте интерфейс для работы с записями.
     5. Данные сохраняются в файл weather_diary.json.
