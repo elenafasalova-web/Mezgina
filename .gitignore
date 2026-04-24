@@ -1,3 +1,10 @@
+# Игнорировать файл с данными
+records.json
+
+# Игнорировать файлы pyc и папки __pycache__
 *.pyc
 __pycache__/
-weather_diary.json
+
+# Виртуальные окружения
+venv/
+.env
